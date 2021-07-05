@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Home
 ---
-
-# Welcome to the Illinois CS Mental Health Committee Website!
 
 ## If you are in need of immediate medical attention or are having a psychiatric emergency, please leave this website now and dial 911 or head to the nearest hospital.
 
