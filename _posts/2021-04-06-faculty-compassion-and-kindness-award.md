@@ -2,7 +2,9 @@
 layout: post
 title:  "Faculty Compassion and Kindness Award"
 categories: resources, faculty, mental health
-permalink: /t/faculty-compassion-and-kindness-award/76/
+permalink: /:title/
+redirect_from:
+  - /t/faculty-compassion-and-kindness-award/76/
 ---
 
 This is the CS Mental Health Committee Proposal for the new Faculty Compassion and Kindness Award. If you would prefer to read a typeset PDF version of this proposal, it is available [in Google Drive](https://drive.google.com/file/d/1QwHoJNAjRevTm5Zb64vlXsYJjENmanG2/view) and at the bottom of this page.

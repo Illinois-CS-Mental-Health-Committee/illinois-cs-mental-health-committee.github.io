@@ -2,7 +2,13 @@
 layout: post
 title:  "Faculty Resources"
 categories: resources
-permalink: /t/faculty-resources/40/
+permalink: /:title/
+redirect_from:
+    - /t/faculty-resources/40/
+    - /t/faculty-resources/40/1/
+    - /t/faculty-resources/40/2/
+    - /t/faculty-resources/40/3/
+    - /t/faculty-resources/40/4/
 ---
 
 Hi! 

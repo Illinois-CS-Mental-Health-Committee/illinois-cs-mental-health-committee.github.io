@@ -22,13 +22,14 @@ title: Illinois CS Mental Health Committee
 email: contact@mg.csmhcillinois.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the Illinois CSMHC site! Check out our resources and announcements here.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://illinois-cs-mental-health-committee.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.

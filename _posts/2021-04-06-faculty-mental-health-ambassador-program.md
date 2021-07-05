@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Faculty Mental Health Ambassadors Program"
+title:  "Faculty Mental Health Ambassador Program"
 categories: resources, faculty, mental health, training
-permalink: /t/faculty-mental-health-ambassador-program/75/
+permalink: /:title/
+redirect_from:
+  - /t/faculty-mental-health-ambassador-program/75/
+  - /t/faculty-mental-health-ambassador-program/75/1/
+  - /t/faculty-mental-health-ambassador-program/75/2/
 ---
 
 This is the CS Mental Health Committee Proposal for the new Faculty Mental Health Program. If you would prefer to read a typeset PDF version of this proposal, you can go [here](https://csmhcillinois.com/t/faculty-mental-health-ambassador-program/75#typeset-proposal). 

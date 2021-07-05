@@ -2,7 +2,9 @@
 layout: post
 title:  "Allies Space"
 categories: resources
-permalink: /t/allies-space/26/
+permalink: /:title/
+redirect_from:
+    - /t/allies-space/26/
 ---
 
 Welcome, dear (potential) ally!
