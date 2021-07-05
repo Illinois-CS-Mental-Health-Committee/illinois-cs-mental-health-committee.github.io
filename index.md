@@ -2,6 +2,8 @@
 layout: home
 ---
 
+# Welcome to the Illinois CS Mental Health Committee Website!
+
 ## If you are in need of immediate medical attention or are having a psychiatric emergency, please leave this website now and dial 911 or head to the nearest hospital.
 
 Welcome to the homepage for the Illinois Computer Science Mental Health Committee! The Computer Science Mental Health Committee (CSMHC) is a student-run organization whose goal is to further mental wellness and advance the dialogue around mental health within Computer Science at Illinois.
