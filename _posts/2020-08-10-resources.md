@@ -2,6 +2,7 @@
 layout: post
 title:  "Mental Health Resources"
 categories: resources
+permalink: /t/mental-health/resources/24/
 ---
 
 Welcome to the resources page! All of these resources have been put together by the CSMHC team for people in need. If you’re looking for direction towards becoming a better ally, check out our [allies space]({% post_url 2020-08-10-allies-space %}). If you feel like there is another resource that should be here, email us at [contact@mg.csmhcillinois.com](mailto:contact@mg.csmhcillinois.com) with the relevant information. 

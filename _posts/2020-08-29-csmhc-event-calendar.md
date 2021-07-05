@@ -2,6 +2,7 @@
 layout: post
 title:  "CSMHC Event Calendar"
 categories: resources, calendar
+permalink: /t/csmhc-event-calendar/28/
 ---
 
 Interested in attending CS Mental Health Committee Events? Check out our calendar below! 

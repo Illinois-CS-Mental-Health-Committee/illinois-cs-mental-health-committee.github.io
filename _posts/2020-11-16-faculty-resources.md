@@ -2,6 +2,7 @@
 layout: post
 title:  "Faculty Resources"
 categories: resources
+permalink: /t/faculty-resources/40/
 ---
 
 Hi! 
