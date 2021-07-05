@@ -4,6 +4,7 @@ title:  "Faculty Resources"
 categories: resources
 permalink: /:title/
 redirect_from:
+    - /t/faculty-resources/
     - /t/faculty-resources/40/
     - /t/faculty-resources/40/1/
     - /t/faculty-resources/40/2/

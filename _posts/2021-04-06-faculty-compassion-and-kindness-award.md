@@ -4,6 +4,7 @@ title:  "Faculty Compassion and Kindness Award"
 categories: resources, faculty, mental health
 permalink: /:title/
 redirect_from:
+  - /t/faculty-compassion-and-kindness-award/
   - /t/faculty-compassion-and-kindness-award/76/
 ---
 

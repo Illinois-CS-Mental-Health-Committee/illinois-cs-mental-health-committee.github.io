@@ -2,6 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+redirect_from:
+    - t/about-the-cs-mental-health-committee/
+    - t/about-the-cs-mental-health-committee/30/
 ---
 
 ## Shining a light on mental health, one mind at a time

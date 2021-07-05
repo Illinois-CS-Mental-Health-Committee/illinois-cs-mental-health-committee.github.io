@@ -4,6 +4,7 @@ title:  "CSMHC Event Calendar"
 categories: resources, calendar
 permalink: /:title/
 redirect_from:
+    - /t/csmhc-event-calendar/
     - /t/csmhc-event-calendar/28/
     - /t/csmhc-event-calendar/28/1/
     - /t/csmhc-event-calendar/28/2/

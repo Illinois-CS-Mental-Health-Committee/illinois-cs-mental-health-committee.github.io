@@ -4,6 +4,7 @@ title:  "Allies Space"
 categories: resources
 permalink: /:title/
 redirect_from:
+    - /t/allies-space/
     - /t/allies-space/26/
 ---
 

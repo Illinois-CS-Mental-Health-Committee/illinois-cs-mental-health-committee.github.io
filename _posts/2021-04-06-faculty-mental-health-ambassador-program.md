@@ -4,6 +4,7 @@ title:  "Faculty Mental Health Ambassador Program"
 categories: resources, faculty, mental health, training
 permalink: /:title/
 redirect_from:
+  - /t/faculty-mental-health-ambassador-program/
   - /t/faculty-mental-health-ambassador-program/75/
   - /t/faculty-mental-health-ambassador-program/75/1/
   - /t/faculty-mental-health-ambassador-program/75/2/

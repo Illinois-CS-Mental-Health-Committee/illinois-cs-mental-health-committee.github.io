@@ -1,6 +1,9 @@
 ---
 layout: home
 title: Home
+redirect_from:
+    - /t/welcome-to-the-csmhc-forum/
+    - /t/welcome-to-the-csmhc-forum/18/
 ---
 
 ## If you are in need of immediate medical attention or are having a psychiatric emergency, please leave this website now and dial 911 or head to the nearest hospital.

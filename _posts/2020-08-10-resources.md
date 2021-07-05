@@ -4,6 +4,7 @@ title:  "Mental Health Resources"
 categories: resources
 permalink: /:title/
 redirect_from:
+    - /t/mental-health-resources/
     - /t/mental-health-resources/24/
     - /t/mental-health-resources/24/1/
     - /t/mental-health-resources/24/2/
