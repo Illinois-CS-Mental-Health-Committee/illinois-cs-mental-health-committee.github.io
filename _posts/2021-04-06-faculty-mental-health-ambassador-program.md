@@ -10,9 +10,9 @@ redirect_from:
   - /t/faculty-mental-health-ambassador-program/75/2/
 ---
 
-This is the CS Mental Health Committee Proposal for the new Faculty Mental Health Program. If you would prefer to read a typeset PDF version of this proposal, you can go [here](https://github.com/Illinois-CS-Mental-Health-Committee/illinois-cs-mental-health-committee.github.io/blob/main/_posts/2021-04-06-faculty-mental-health-ambassador-program.md#typeset-proposal). 
+This is the CS Mental Health Committee Proposal for the new Faculty Mental Health Program. If you would prefer to read a typeset PDF version of this proposal, you can go [here](https://www.csmhcillinois.com/faculty-mental-health-ambassador-program/#typeset-proposal). 
 
-You can also view a typeset PDF version of our email training [here](https://github.com/Illinois-CS-Mental-Health-Committee/illinois-cs-mental-health-committee.github.io/blob/main/_posts/2021-04-06-faculty-mental-health-ambassador-program.md#email-training) or go to [https://go.csmhcillinois.com/email-training](https://go.csmhcillinois.com/email-training).
+You can also view a typeset PDF version of our email training [here](https://www.csmhcillinois.com/faculty-mental-health-ambassador-program/#email-training) or go to [https://go.csmhcillinois.com/email-training](https://go.csmhcillinois.com/email-training).
 
 # Overview
 
