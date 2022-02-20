@@ -29,13 +29,13 @@ Faculty resources : [link]({% post_url 2020-11-16-faculty-resources %})
 - Promote Kognito at-risk training for faculty and staff
 - Encourage a community of care and compassion
 
-Committee applications open at the beginning of each semester! We offer full membership opportunities as well as internships with more flexibility.
+Committee applications will open in Fall 2022!
 
 If committees aren’t right for you, but you want to remain involved, come to our events!
 
 Follow us on social media for notifications about events and applications opening.
 
-## Debunking common myths
+## Debunking common myths about CSMHC!
 
 **Myth:** Only CS majors can join
 
@@ -58,4 +58,4 @@ Instagram: [@csmhc.illinois](https://instagram.com/csmhc.illinois)
 
 Facebook: [Illinois CS Mental Health Committee](https://www.facebook.com/IllinoisCSMentalHealthCommittee)
 
-Email: [contact@mg.csmhcillinois.com](mailto:contact@mg.csmhcillinois.com)
+Email: [illinois.csmhc@gmail.com(mailto:illinois.csmhc@gmail.com)
