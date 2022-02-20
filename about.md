@@ -58,4 +58,4 @@ Instagram: [@csmhc.illinois](https://instagram.com/csmhc.illinois)
 
 Facebook: [Illinois CS Mental Health Committee](https://www.facebook.com/IllinoisCSMentalHealthCommittee)
 
-Email: [illinois.csmhc@gmail.com(mailto:illinois.csmhc@gmail.com)
+Email: [illinois.csmhc@gmail.com](mailto:illinois.csmhc@gmail.com)
