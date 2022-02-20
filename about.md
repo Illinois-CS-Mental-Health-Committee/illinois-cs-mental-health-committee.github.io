@@ -22,18 +22,17 @@ Faculty resources : [link]({% post_url 2020-11-16-faculty-resources %})
 ## Outreach:
 - Collaborate with the department, college, campus-wide organizations and integrating mental health education and awareness into first-year programs
 - Host fundraisers
-- Manage the mental health forum
+- Encourage a community of care and compassion
 
 ## Policy:
 - Work with college and department to lead policy initiatives on student mental health resources
 - Promote Kognito at-risk training for faculty and staff
-- Encourage a community of care and compassion
 
-Committee applications will open in Fall 2022!
+Committee applications will open in Fall 2022! CSMHC has been on hiatus for the 2021-2022 academic year but we will be back next fall. :)
 
 If committees aren’t right for you, but you want to remain involved, come to our events!
 
-Follow us on social media for notifications about events and applications opening.
+Follow us on social media for notifications about events and applications opening, as well as content on maintaining your mental health.
 
 ## Debunking common myths about CSMHC!
 
